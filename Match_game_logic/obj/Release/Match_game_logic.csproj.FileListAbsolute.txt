@@ -1,0 +1,7 @@
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\bin\Release\Match_game_logic.dll.config
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\bin\Release\Match_game_logic.dll
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\bin\Release\Match_game_logic.pdb
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\obj\Release\Match_game_logic.csprojAssemblyReference.cache
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\obj\Release\Match_game_logic.csproj.CoreCompileInputs.cache
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\obj\Release\Match_game_logic.dll
+C:\Users\97254\source\repos\console-matching-game-with-AI---C-sharp\B20 Ex05 AryehKlein 323746016 TomerBenGigi 206198772\Match_game_logic\obj\Release\Match_game_logic.pdb
